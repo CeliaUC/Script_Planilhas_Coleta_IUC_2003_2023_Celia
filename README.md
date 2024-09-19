@@ -2,23 +2,23 @@
 
 Neste diretório, ficam localizadas as planilhas base dos códigos utilizados para a análise de dados do estudo. As planilhas foram organizadas de acordo com o gráfico e o tipo de análise, da seguinte forma:
 
-**1_totalSeries**
+**1_Colecoes_e_Series**
     
 Apresenta o estudo por série de coleção.
 
-**1_2_Publicacoes_por_serie_ano**
+**1_2_Publicacoes_por_Colecao_Serie_Ano**
 
 Apresenta o estudo da quantidade de publicações anuais de acordo com a série.
 
-**1_3_Dispersao**
+**1_3_Dispersao_Interativo**
 
 Planilha base para o cálculo de dispersão do número de publicações ao longo dos anos pela IUC.
 
-**2_docentes_publicacoes**
+**2_Publicacoes_Docentes**
 
 Publicações por docente, de acordo com a sua afiliação, ou seja, a sua Universidade de origem, seu departamento e país, bem como a quantidade de publicações.
 
-**3_disponibilidadeCompra**
+**3_Disponibilidade_Compra**
 
 Disponibilidade para compra de acordo com a plataforma, sendo Amazon e Google.
 
